@@ -1,5 +1,5 @@
 # MyMessageBoard
-
+[![Build Status](https://travis-ci.com/oliverwreath/MyMessageBoard.svg?branch=master)](https://travis-ci.com/oliverwreath/MyMessageBoard)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
 ## Development server
