@@ -1,4 +1,5 @@
 # MyMessageBoard
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/dbffabaa33744fb1acb6cae748628e12)](https://app.codacy.com/app/oliverwreath/MyMessageBoard?utm_source=github.com&utm_medium=referral&utm_content=oliverwreath/MyMessageBoard&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.com/oliverwreath/MyMessageBoard.svg?branch=master)](https://travis-ci.com/oliverwreath/MyMessageBoard)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
 
